@@ -1,4 +1,4 @@
-# X02 Dorm Buddies (Paired Exam)
+# T06 Dorm Buddies (Paired Exam)
 
 Ucok adalah seorang mahasiswa yang tinggal dalam asrama (shared-dorm) di kampusnya. Dalam sebuah ruang asrama ditempati oleh paling banyak empat orang penghuni yang disebut **buddy**. Saat ini, Ucok tinggal dengan satu penghuni lainnya, Wayan. Butet, rekan Ucok yang juga bersekolah di kampus yang sama, tinggal bersama tiga pengguni lainnya (Lilis, Nana, dan Yuni).
 
